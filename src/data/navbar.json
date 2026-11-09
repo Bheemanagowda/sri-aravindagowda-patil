@@ -1,0 +1,43 @@
+{
+  "brand": {
+    "name": "Shri Aravindgowda Police Patil",
+    "designation": "Next MLA Candidate • Yelburga (063)",
+    "link": "/"
+  },
+  "menu": [
+    {
+      "id": "home",
+      "title": "Home",
+      "link": "/"
+    },
+    {
+      "id": "about",
+      "title": "About Leader",
+      "link": "/about"
+    },
+    {
+      "id": "realhelp",
+      "title": "Real Help (Janaseva)",
+      "link": "/real-help"
+    },
+    {
+      "id": "gallery",
+      "title": "Gallery",
+      "link": "/gallery"
+    },
+    {
+      "id": "manifesto",
+      "title": "Manifesto",
+      "link": "/manifesto"
+    },
+    {
+      "id": "contact",
+      "title": "Contact Us",
+      "link": "/contact"
+    }
+  ],
+  "cta": {
+    "title": "Emergency Seva / Help",
+    "link": "/real-help"
+  }
+}
